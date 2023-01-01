@@ -108,9 +108,10 @@ Gib in das Terminal folgende Aufforderung ein, um ein ssh-keypair zu erzeugen. M
 >`ssh-keygen -t rsa -b 4096 -C "<email-address>"`
 
 #### Hinterlege den öffentlichen ssh-key bei Github.com
+Todo: Beschreibung 
 
 #### Teste die Verbindung via ssh mit Github.com
-
+Todo: Beschreibung
 
 ### Verbinde Git und Github via ssh
 
@@ -118,6 +119,6 @@ Verknüpfe jetzt dein lokales Git mit Github.com als remote repository:
 
 `git remote add origin <ssh-verzeichnis github>`
 
-Prüfe jetzt gern nochmal den status deines lokalen repositorys:
+Prüfe jetzt gern einmal den status deines lokalen repositorys:
 
 `git status`
