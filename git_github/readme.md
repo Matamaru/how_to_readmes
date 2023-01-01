@@ -1,3 +1,5 @@
+Änderung remote
+
 # Git und Github für Python-Project "Projektname" einrichten
 ## Verzeichnis anlegen
 Lege im Terminal einen Ordner für das Projekt an und wechsle in das Verzeichnis.
